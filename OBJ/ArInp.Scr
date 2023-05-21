@@ -1,0 +1,2 @@
+--create ..\OBJ\USMART.lib
+"..\obj\lrtc .o"
